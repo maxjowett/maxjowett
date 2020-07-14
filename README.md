@@ -1,4 +1,6 @@
-### Hi there 👋
+## Heyo 👋
+
+I'm Max, I write code, sometimes it works. I like making cool shit for the web.
 
 <!--
 **maxjowett/maxjowett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
